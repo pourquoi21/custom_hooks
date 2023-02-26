@@ -14,4 +14,4 @@ const useInput = (initialValue, validator) => {
 }
 
 const name = useInput("Mr.", function)
-const function = (value) => value.length <= 10;
+const func = (value) => value.length <= 10;
