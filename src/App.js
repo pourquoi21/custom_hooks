@@ -1,6 +1,3 @@
-import React, { useState, useEffect, useRef } from "react";
-
-import "./styles.css";
 import useAxios from "./useAxios";
 
 export default function App() {
